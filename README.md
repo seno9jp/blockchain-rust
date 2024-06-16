@@ -1,6 +1,9 @@
-### This repository is for practice.
+### This repository is for practice & hobby project.
 
+I had some experience with Python Bitcoin projects, but I found a project to replace a Python Bitcoin project with Rust to learn the Rust language, and I tried to copy it.
+  
+The Rust language is a lot of fun and makes us happy!
+Enjoy coding!
+  
+The copyright is on the original project.  
 [How to Build a Blockchain from Scratch with Rust Programming Language](https://www.youtube.com/watch?v=vJdT05zl6jk)
-
-
-<img width="793" alt="image" src="https://user-images.githubusercontent.com/11664271/203471658-a4f981da-d575-46e3-9112-9cea6b24651f.png">
